@@ -149,7 +149,9 @@ Navega hasta la carpeta dist del proyecto y selecciona el `.jar`.
 3.- Ya esta lsito para usar y arrastrar a tus componentes.
 
 4.- Prueba ya sea en un JFrame o JDialog si funciona.
+
 ![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/3e3a227c-da4f-46ca-a24d-49fd2cb645ea)
+
 
 
 
