@@ -70,21 +70,32 @@ y tranferir el resultado de la CURP a un campo de texto externo como resultado.
 # GeneradorCurp
 
 # Descripcion 
-Clase GeneradorCurp es la encargada de generar la CURP basada en parametros muy especificos
+Clase `GeneradorCurp` es la encargada de generar la CURP basada en parametros muy especificos
 los cuales son, separar en vocales, consonates e iniciales, los nombres y apellidos ingresados
 por los usuarios, como los ultimos dos digitos de la curp los cuales son generados al azar con 
 tal de no generar alguna CURP similar a las otras.
 
 # Campos
 
-| Tipo | Campo | Descripcion                                                                            |
-|------|-------|----------------------------------------------------------------------------------------|
-|String|UPPER  |Contiene las letras mayusculas de la A a la Z                                           |
-|Int   |RANDOM |Contiene numeros al azar del 1 al 10                                                    |
-|Int   |CHARAT |Se encarga de recorre los apellidos y el nombre para encontrar las consonantes y vocales|
+| Tipo   | Campo   | Descripcion                                                                            |
+|--------|---------|----------------------------------------------------------------------------------------|
+|`String`|`UPPER`  |Contiene las letras mayusculas de la A a la Z                                           |
+|`Int`   |`RANDOM` |Contiene numeros al azar del 1 al 10                                                    |
+|`Int`   |`CHARAT` |Se encarga de recorre los apellidos y el nombre para encontrar las consonantes y vocales|
 
 # Metodos 
 
-| Nombre                  | Tipo de Dato que Retorna | Tipo de Dato que Recibe | Descripcion                                            |
-|-------------------------|--------------------------|-------------------------|--------------------------------------------------------|
-|obtenerPrimeraConsonante | char                     |char, boolean            | Se encarga de buscar la primera consonante del apellido|
+| Nombre                    | Tipo de Dato que Retorna   | Tipo de Dato que Recibe       |                                    Descripcion                                          |
+|---------------------------|----------------------------|-------------------------------|-----------------------------------------------------------------------------------------|
+|`obtenerPrimeraConsonante` | `char`                     |`char, boolean`                | Se encarga de buscar la primera consonante del nombre, apellido paterno y materno       |
+|`encontrarPrimeraVocal`    | `char`                     |`char`                         | Se encarga de buscar la primera vocal del apellido paterno                              |
+|`btnAceptarActionPerformed`| `void`                     |`java.awt.event.ActionEventevt`| Se encarga de generar la CURP basada en los datos ingresados por el usuario             |
+|`getGeneradorCurp`         | `String`                   |`String`                       | Es el encargado de concatenar todos los datos y mandarlos a imprimir en el formato CURP |
+|`cboEstadoMouseEntered`    | `void`                     |`java.awt.event.MouseEventevt` | Se encarga de leer el archivo csv de los estados con sus abreviaciones                  |
+
+# Instalacion 
+
+Para poder hacer uso de este componente es necesario que siga los siguientes pasos:
+
+1.- Obtener el repositorio Clona con el siguiente comando 
+                     
