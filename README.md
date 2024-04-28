@@ -67,3 +67,24 @@ y tranferir el resultado de la CURP a un campo de texto externo como resultado.
 |                         |                            |                                            |error al momento de generar su CURP                                                                         | 
 |`jLabel3MouseEntered`    |`void`                      | `java.awt.event.ActionEventevt`            |Es la etiqueta encargada de mandar al usuario a el cuestionario sobre sus datos en caso de no conocer su CURP| 
                                                                                                     
+# GeneradorCurp
+
+# Descripcion 
+Clase GeneradorCurp es la encargada de generar la CURP basada en parametros muy especificos
+los cuales son, separar en vocales, consonates e iniciales, los nombres y apellidos ingresados
+por los usuarios, como los ultimos dos digitos de la curp los cuales son generados al azar con 
+tal de no generar alguna CURP similar a las otras.
+
+# Campos
+
+| Tipo | Campo | Descripcion                                                                            |
+|------|-------|----------------------------------------------------------------------------------------|
+|String|UPPER  |Contiene las letras mayusculas de la A a la Z                                           |
+|Int   |RANDOM |Contiene numeros al azar del 1 al 10                                                    |
+|Int   |CHARAT |Se encarga de recorre los apellidos y el nombre para encontrar las consonantes y vocales|
+
+# Metodos 
+
+| Nombre                  | Tipo de Dato que Retorna | Tipo de Dato que Recibe | Descripcion                                            |
+|-------------------------|--------------------------|-------------------------|--------------------------------------------------------|
+|obtenerPrimeraConsonante | char                     |char, boolean            | Se encarga de buscar la primera consonante del apellido|
