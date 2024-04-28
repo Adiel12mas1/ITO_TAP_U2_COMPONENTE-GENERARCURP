@@ -14,11 +14,13 @@ mediante un interfaz grafico practico para todos.
 El componente puede ser utilizado por alguna empresa al momento de ingresar un nuevo
 empleado a sus filas, y asi registrarlo mediante la CURP, facilitando la manera en
 conocer la informacion personal de sus trabajadores a la empresa.
+
 2.- Servicios Publicos:
 De igual manera este componente puede ser utilizado por entidades gubernamentales,
 para el tramite de servicios publicos siendo la CURP un dato necesario y casi
 siempre obligatorio para estos, como los que pueden ser: Becas, Seguros, Ayudas 
 sociles, etc...
+
 3.- Tramites de Documentacion Oficial
 El uso de la CURP para documentacion oficial es muy recurrnte siendo un dato necesario
 para tramites como: Actas de nacimiento, Licencias de Manejo, INE, etc... De esta forma
