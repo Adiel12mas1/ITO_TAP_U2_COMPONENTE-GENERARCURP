@@ -102,4 +102,76 @@ Para poder hacer uso de este componente es necesario que siga los siguientes pas
 1.- Obtener el repositorio Clona con el siguiente comando 
 
    git clone https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP.git
-                     
+
+Otra opcion es descargar `ZIP`
+
+
+
+
+
+2.- Importa el proyecto en tu IDE preferido (NetBeans).
+3.- Asegurate de que el proyecto se compila sin errores para crear el `.jar` segun la 
+version de tu java.
+
+# Uso 
+
+1.- Compila tu proyecto para crear el archivo `.jar`
+
+
+
+
+
+Posteriormente presionar `Shift + F11`
+2.- Agrega el componente a tu paleta de componentes. Da click derecho en la paleta
+y selecciona Palette Manager y seleciona Add From Jar
+
+Navega hasta la carpeta dist del proyecto y selecciona el `.jar`.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.- Ya esta lsito para usar y arrastrar a tus componentes.
+
+4.- Prueba ya sea en un JFrame o JDialog si funciona.
+
+
+
+
+
+
+Ya puedes generar CURP segun las necesidades de los usuarios o a tu gusto.
+
+# Funcionamiento 
+
+¡Descubre como funciona este componente visual Generador de CURP!
+
+Haz click para ver el video de su funcionamiento ahora mismo 
+link 
+
+# Contribuir 
+Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos: 
+1.- Haz un fork del repositorio.
+2.- Crea una nueva rama para tu caracteristica o correcion de erores.
+3.- Haz tus cambios.
+4.- Envia un pull request.
+
+# Autores 
+* Cruz Castro Carlos Adiel - Estudiante del ITO
+  CONTACTO:
+* Juan Manuel
+
+# Agradecimientos 
+* Gracias por leer este post y por tomarse el tiempo de contribuir a mejorar nuestro proyecto.
+* A la maestra Adelina de la carrera de Sistemas por impartir la materia de Topicos
+y enseñarnos lo que otros maestros no hicieron.
+* Y a Juan por poner las excepciones del codigo.
