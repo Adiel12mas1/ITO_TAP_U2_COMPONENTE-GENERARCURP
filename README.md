@@ -117,6 +117,7 @@ version de tu java.
 # Uso 
 
 1.- Compila tu proyecto para crear el archivo `.jar`
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/3d28ca81-25b6-46fb-bb39-64d1a33f6093)
 
 
 
@@ -127,6 +128,10 @@ Posteriormente presionar `Shift + F11`
 y selecciona Palette Manager y seleciona Add From Jar
 
 Navega hasta la carpeta dist del proyecto y selecciona el `.jar`.
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/d5be72bd-ecfc-4a81-89ec-452de56eb9da)
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/87c9233b-f8a9-468e-b58e-495f68392a0c)
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/62da0a7f-3684-40f2-9c4b-23e81a45912d)
+
 
 
 
@@ -144,6 +149,7 @@ Navega hasta la carpeta dist del proyecto y selecciona el `.jar`.
 3.- Ya esta lsito para usar y arrastrar a tus componentes.
 
 4.- Prueba ya sea en un JFrame o JDialog si funciona.
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/3e3a227c-da4f-46ca-a24d-49fd2cb645ea)
 
 
 
