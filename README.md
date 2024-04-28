@@ -1,5 +1,5 @@
 # ITO_TAP_U2_COMPONENTE-GENERARCURP
-Descripcion
+#Descripcion
 Este componente Java nos permite a nosotros y al usuario generar CURP las veces que sean
 necesarias. Lo diseñamos para su uso en aplicaciones de Java Swing, permitiendo asi, el
 uso del mismo en JFrame o JDialog facilmente.
