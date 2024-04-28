@@ -2,9 +2,9 @@
 # Descripcion
 Este componente Java nos permite a nosotros y al usuario generar CURP las veces que sean
 necesarias. Lo diseñamos para su uso en aplicaciones de Java Swing, permitiendo asi, el
-uso del mismo en <JFrame> o < JDialog > facilmente.
+uso del mismo en `JFrame` o `JDialog` facilmente.
 
-Consta de dos clases importantes las cuales son, <VentanaPrincipal> y <GeneradorCurp>, asi
+Consta de dos clases importantes las cuales son, `VentanaPrincipal` y `GeneradorCurp`, asi
 estas dos trabajan de la mano para ser integradas con el objetivo de generar una CURP
 dandole al usuario la opcion de ingresarla si es que la conoce o si no la conoce, 
 mediante un interfaz grafico practico para todos.
@@ -39,7 +39,7 @@ podria ser implementado en alguna seccion de estos oficios.
 # VentanaPrincipal
 
 # Descripcion
-Clase <VentanaPrincipal> es nuestra encargada de generar la CURP pidiendo al usuario mediante
+Clase `VentanaPrincipal` es nuestra encargada de generar la CURP pidiendo al usuario mediante
 una interfaz grafica, los datos necesarios para generar la misma, utilizando parametros como
 longitudes y numeros para encontrar las vocales, iniciales y consonantes. Para los ultimos
 dos digitos de la CURP utiliza un enfoque aleatorio para generar que ninguna CURP se repita.
