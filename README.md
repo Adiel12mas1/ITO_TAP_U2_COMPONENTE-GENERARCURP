@@ -49,7 +49,7 @@ y tranferir el resultado de la CURP a un campo de texto externo como resultado.
 
 | Tipo                   |     Campo         | Descrpcion                                          |
 |------------------------|-------------------|-----------------------------------------------------|
-| javax.swing.JTextfield | externalTextField |Campo de texto externo para recibir la CURP generada |
+| javax.swing.*          | JTextField        |Campo de texto externo para recibir la CURP generada |
 
 # Constructores 
 
@@ -62,8 +62,8 @@ y tranferir el resultado de la CURP a un campo de texto externo como resultado.
 |Nombre                  |  Tipo de Dato que Retorna  | Tipo de Dato que Recibe                    |                                                    Descripcion                                               |
 |------------------------|----------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 |initComponents          |  void                      | javax.swing.*, java.awt.*, java.awt.event. | Establece los componentes, tamaños, posiciones, tipo de letra, el texto a imprimir, y la asignacion de cada  | 
-                                                                                                     boton                                                                                                        
+|                        |                            |                                            |  boton                                                                                                       | 
 |jButton2ActionPerformed |  void                      | java.awt.event.ActionEventevt              | Es el boton encargado de avisar al usuario si la CURP ingresada o generada es valida, si no lo es, o si hubo | 
-                                                                                                     error al momento de generar su CURP                                                                          
+|                        |                            |                                            |  error al momento de generar su CURP                                                                         | 
 |jLabel3MouseEntered     |  void                      | java.awt.event.ActionEventevt              | Es la etiqueta encargada de mandar al usuario a el cuestionario sobre sus datos en caso de no conocer su CURP| 
                                                                                                     
