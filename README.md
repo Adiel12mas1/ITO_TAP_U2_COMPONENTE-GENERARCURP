@@ -44,3 +44,5 @@ una interfaz grafica, los datos necesarios para generar la misma, utilizando par
 longitudes y numeros para encontrar las vocales, iniciales y consonantes. Para los ultimos
 dos digitos de la CURP utiliza un enfoque aleatorio para generar que ninguna CURP se repita.
 
+# Campos 
+
