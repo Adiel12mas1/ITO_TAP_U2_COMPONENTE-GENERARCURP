@@ -176,7 +176,7 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 # Autores 
 * Cruz Castro Carlos Adiel - Estudiante del ITO
-  CONTACTO:
+  CONTACTO:(Adiel12mas1(github.com))
 * Juan Manuel
 
 # Agradecimientos 
