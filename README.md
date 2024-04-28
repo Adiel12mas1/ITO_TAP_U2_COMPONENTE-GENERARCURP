@@ -104,6 +104,7 @@ Para poder hacer uso de este componente es necesario que siga los siguientes pas
    git clone https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP.git
 
 Otra opcion es descargar `ZIP`
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/bbaab38a-bdda-475f-879d-8599385287e6)
 
 
 
