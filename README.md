@@ -39,10 +39,31 @@ podria ser implementado en alguna seccion de estos oficios.
 # VentanaPrincipal
 
 # Descripcion
-Clase `VentanaPrincipal` es nuestra encargada de generar la CURP pidiendo al usuario mediante
-una interfaz grafica, los datos necesarios para generar la misma, utilizando parametros como
-longitudes y numeros para encontrar las vocales, iniciales y consonantes. Para los ultimos
-dos digitos de la CURP utiliza un enfoque aleatorio para generar que ninguna CURP se repita.
+Clase `VentanaPrincipal` es nuestro componente GUI diseñada como un class de java el cual 
+permite al usuario generar la CURP de manera visual. El componente da dos opciones al
+usuario, la de Aceptar que permite validar si la CURP es correcta o no, y una opcion 
+en casa de que no conozca su CURP la cual se encarga de abrir el componenten grafico
+y tranferir el resultado de la CURP a un campo de texto externo como resultado.
 
 # Campos 
 
+| Tipo                   |     Campo         | Descrpcion                                          |
+|------------------------|-------------------|-----------------------------------------------------|
+| javax.swing.JTextfield | externalTextField |Campo de texto externo para recibir la CURP generada |
+
+# Constructores 
+
+| Constructor               |                                                        Descripcion                                                      |     
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|VentanaPrincipal()         |Encargado de inicilizar el componente, establece los tamaños y configura el medelo de los componentes dentro de el metodo|
+
+# Metodos 
+
+|Nombre                  |  Tipo de Dato que Retorna  | Tipo de Dato que Recibe                    |                                                    Descripcion                                               |
+|------------------------|----------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+|initComponents          |  void                      | javax.swing.*, java.awt.*, java.awt.event. | Establece los componentes, tamaños, posiciones, tipo de letra, el texto a imprimir, y la asignacion de cada  | 
+|                        |                            |                                            | boton                                                                                                        |
+|jButton2ActionPerformed |  void                      | java.awt.event.ActionEventevt              | Es el boton encargado de avisar al usuario si la CURP ingresada o generada es valida, si no lo es, o si hubo | 
+|                        |                            |                                            | error al momento de generar su CURP                                                                          |
+|jLabel3MouseEntered     |  void                      | java.awt.event.ActionEventevt              | Es la etiqueta encargada de mandar al usuario a el cuestionario sobre sus datos en caso de no conocer su CURP| 
+                                                                                                    
