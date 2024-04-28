@@ -100,4 +100,6 @@ tal de no generar alguna CURP similar a las otras.
 Para poder hacer uso de este componente es necesario que siga los siguientes pasos:
 
 1.- Obtener el repositorio Clona con el siguiente comando 
+
+   git clone https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP.git
                      
