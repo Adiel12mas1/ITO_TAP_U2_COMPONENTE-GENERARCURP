@@ -160,6 +160,28 @@ Navega hasta la carpeta dist del proyecto y selecciona el `.jar`.
 
 Ya puedes generar CURP segun las necesidades de los usuarios o a tu gusto.
 
+Dato importante a tomar en cuenta al momento de descargar el componente, puede que al descargar todas las clases no
+permite convertir a `.jar`, para solucionar este problema deberas crear un nuevo proyecto y ahi colocar las dos 
+clases correspondientes.
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/65d42af4-2603-46cc-a009-7fcba8b63622)
+
+
+
+
+
+
+Tambien es importante mencionar que el csv de los estados se tiene que descargar para pegarlo dentro de los documentos de 
+el proyecto donde tienes las dos clases de nuestros componentes para que no haya problemas al momento de seleccionar
+los estados en el combo box del componente grafico.
+![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/22121140-5e41-40b6-a545-bc7db895eafa)
+
+
+
+
+
+
+
+
 # Funcionamiento 
 
 ¡Descubre como funciona este componente visual Generador de CURP!
