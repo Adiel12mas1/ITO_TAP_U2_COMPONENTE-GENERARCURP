@@ -192,10 +192,14 @@ Haz click para ver el video de su funcionamiento ahora mismo
 link 
 
 # Contribuir 
-Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos: 
+Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
 1.- Haz un fork del repositorio.
+
 2.- Crea una nueva rama para tu caracteristica o correcion de erores.
+
 3.- Haz tus cambios.
+
 4.- Envia un pull request.
 
 # Autores 
