@@ -123,6 +123,7 @@ version de tu java.
 
 
 
+
 Posteriormente presionar `Shift + F11`
 2.- Agrega el componente a tu paleta de componentes. Da click derecho en la paleta
 y selecciona Palette Manager y seleciona Add From Jar
