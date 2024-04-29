@@ -189,7 +189,7 @@ los estados en el combo box del componente grafico.
 ¡Descubre como funciona este componente visual Generador de CURP!
 
 Haz click para ver el video de su funcionamiento ahora mismo 
-link 
+link: https://youtu.be/q3bJoEM60BI
 
 # Contribuir 
 Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
@@ -205,7 +205,9 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 # Autores 
 * Cruz Castro Carlos Adiel - Estudiante del ITO
   CONTACTO:(Adiel12mas1(github.com))
-* Juan Manuel
+* Juan Manuel Gonzales Vasquez - Estudiante del
+  ITO
+  CONTACTO:(JMGVs(github.com))
 
 # Agradecimientos 
 * Gracias por leer este post y por tomarse el tiempo de contribuir a mejorar nuestro proyecto.
