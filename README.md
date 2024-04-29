@@ -117,6 +117,7 @@ version de tu java.
 # Uso 
 
 1.- Compila tu proyecto para crear el archivo `.jar`
+
 ![image](https://github.com/Adiel12mas1/ITO_TAP_U2_COMPONENTE-GENERARCURP/assets/168316306/3d28ca81-25b6-46fb-bb39-64d1a33f6093)
 
 
